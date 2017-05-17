@@ -31,6 +31,7 @@ A NodeJS library to manage knowledge repositories
     source product.
     
     For more information, please contact:
-    EasyHard.io / Leonardo Petersen Thomé Pires 
+    Leonardo Petersen Thomé Pires 
     - leonardo@easyhard.io
+    EasyHard.io
     - http://easyhard.io
