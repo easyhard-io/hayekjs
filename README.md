@@ -18,6 +18,8 @@ HayekJS was created by [EasyHard.io](http://easyhard.io), a website that enables
 
 # LICENSE
 
+This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/hayekjs/blob/master/LICENSE) and a commercial license under the following terms:
+
     HayekJS - A NodeJS library to manage knowledge
     Copyright (C) 2017 EasyHard.io
 
