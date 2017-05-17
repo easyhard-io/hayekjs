@@ -46,7 +46,6 @@ This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/ha
     a commercial license. Buying such a license is mandatory as soon as you
     develop commercial activities involving the HayekJS software without
     disclosing the source code of your own applications.
-    These activities include: shipping HayekJS with a closed source product.
 
     For more information, please contact EasyHard.io
     - contact@easyhard.io
