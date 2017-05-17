@@ -1,7 +1,8 @@
 # HayekJS
 
-> *The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.*
-> F.A. Hayek
+> The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.
+
+> *F.A. Hayek*
 
 HayekJS is a NodeJS library that supports the collection, management and storage of disperse information about virtually anything.
 
