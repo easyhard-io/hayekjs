@@ -54,3 +54,7 @@ This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/ha
     - contact@easyhard.io
     - http://easyhard.io
 
+### Sample link text:
+``` html
+<a href="http://easyhard.io/dev/hayekjs">Powered by HayekJS</a>
+```
