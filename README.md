@@ -15,7 +15,6 @@ HayekJS was created by [EasyHard.io](http://easyhard.io), a website that enables
 > No matter how smart we are, the collective knowledge of all our users will always be smarter than us at collecting, organizing and validating rigs and games information. That's why we need to make EasyHard.io a platform for people to collaborate rather than having us as a central planning authority.
 
 
-
 # License
 
 This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/hayekjs/blob/master/LICENSE) and a commercial license under the following terms, as defined in [LICENSE_ADDENDUM](https://github.com/easyhard-io/hayekjs/blob/master/LICENSE-ADDENDUM.md):
@@ -33,12 +32,12 @@ This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/ha
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU Affero General Public License for more details.
 
-    In accordance with Section 7(b) of the GNU Affero General Public License,
-    a covered work must display in all user visible pages link to 
-    <http://easyhard.io/dev/hayekjs> with the text: "Powered by HayekJS".
-
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+    In accordance with Section 7(b) of the GNU Affero General Public License,
+    a covered work must display in all user visible pages link to 
+    <http://easyhard.io/dev/hayekjs> with the text: "Powered by HayekJS".        
 
     **************************************************************************
 
