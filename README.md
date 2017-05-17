@@ -5,7 +5,7 @@ A NodeJS library to manage knowledge repositories
 # LICENSE
 
     HayekJS - A NodeJS library to manage knowledge repositories
-    Copyright (C) 2017 EasyHard.io / Leonardo Petersen Thomé Pires
+    Copyright (C) 2017 EasyHard.io
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as
@@ -31,7 +31,6 @@ A NodeJS library to manage knowledge repositories
     source product.
     
     For more information, please contact:
-    Leonardo Petersen Thomé Pires 
-    - leonardo@easyhard.io
-    EasyHard.io
-    - http://easyhard.io
+    - EasyHard.io
+      - contact@easyhard.io
+      - http://easyhard.io
