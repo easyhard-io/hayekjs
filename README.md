@@ -30,7 +30,6 @@ A NodeJS library to manage knowledge repositories
     HayekJS in a web application, shipping HayekJS with a closed
     source product.
     
-    For more information, please contact:
-    - EasyHard.io
-      - contact@easyhard.io
-      - http://easyhard.io
+    For more information, please contact EasyHard.io
+    - contact@easyhard.io
+    - http://easyhard.io
