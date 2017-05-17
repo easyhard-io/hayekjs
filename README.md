@@ -8,7 +8,7 @@ HayekJS is a content management library written in NodeJS that supports the coll
 
 ## Introduction
 
-HayekJS was created by [EasyHard.io](http://easyhard.io) when its founder, [Leonardo Thomé Pires](http://twitter.com/piresl) came up with the following conclusion: 
+HayekJS was created by [EasyHard.io](http://easyhard.io), a website that enables the user to find PCs and laptops (called rigs) that match exactly their gaming needs, when [Leonardo Thomé Pires](http://twitter.com/piresl) (founder, CEO) came up with the following conclusion: 
 
 > We as a company will never have all the knowledge required to include all games and all rigs (PCs and laptops) that exist in the world. While having a limited set of games and rigs may have been a viable short term solution to bootstrap, it certainly becomes a problem in the long term if we need to manage them all. 
 >
