@@ -1,6 +1,7 @@
 # HayekJS
 
-> The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.
+> "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." 
+>
 > *F.A. Hayek*
 
 HayekJS is a NodeJS library that supports the collection, management and storage of disperse information about virtually anything.
@@ -12,7 +13,7 @@ HayekJS was created by [EasyHard.io](http://easyhard.io).
 EasyHard.io's founder, [Leonardo Thomé Pires] have come to the following conclusion: 
 
 > We as a company will never have all the knowledge required to include all games and all rigs (PCs and laptops) that exist in the world. While having a limited set of games and rigs may have been a viable short term solution to bootstrap, it certainly becomes a problem in the long term if we need to manage them all. 
-
+>
 > No matter how good we are at collecting rigs and games information, the sum of the collective knowledge of all our users will always be smarter than us. That's why we need to make EasyHard.io a platform for people to collaborate rather than having us as a central planning authority.
 
 
