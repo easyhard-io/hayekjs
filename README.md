@@ -4,7 +4,7 @@
 >
 > *F.A. Hayek*
 
-HayekJS is a NodeJS library that supports the collection, management and storage of disperse information about virtually anything in a collaborative way. Its engine might also be used as the core for a *Wiki* knowledge base.
+HayekJS is a content management library written in NodeJS that supports the collection, management and storage of disperse information about virtually anything in a collaborative way. Its engine might also be used as the core for a website, a *Wiki*, a blog, knowledge base or any kind of content.
 
 ## Introduction
 
