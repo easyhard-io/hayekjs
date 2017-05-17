@@ -16,7 +16,7 @@ HayekJS was created by [EasyHard.io](http://easyhard.io), a website that enables
 
 
 
-# LICENSE
+# License
 
 This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/hayekjs/blob/master/LICENSE) and a commercial license under the following terms, as defined in [LICENSE_ADDENDUM](https://github.com/easyhard-io/hayekjs/blob/master/LICENSE):
 
@@ -34,7 +34,7 @@ This program is dual-licensed as both [AGPLv3](https://github.com/easyhard-io/ha
     GNU Affero General Public License for more details.
 
     In accordance with Section 7(b) of the GNU Affero General Public License,
-    a covered work must display in all user visible pages a visible link to 
+    a covered work must display in all user visible pages link to 
     <http://easyhard.io/dev/hayekjs> with the text: "Powered by HayekJS".
 
     You should have received a copy of the GNU Affero General Public License
